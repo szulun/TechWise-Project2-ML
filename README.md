@@ -34,7 +34,7 @@ Usage Instructions:
 Refer to the notebooks/Student_Dropout_Prediction.ipynb and notebooks/Student_Dropout_Prediction_ANN.ipynb files for detailed code and execution steps.
 
 To run the code, open the files in Google Colab and follow the instructions.
-Refer to this report for more information about the project: [[insert the gamma.app link here]](https://gamma.app/docs/Student-Performance-Factors-rlajbjjdc99a409?mode=doc)
+Refer to this report for more information about the project: [[gamma.app link here]](https://gamma.app/docs/Student-Performance-Factors-rlajbjjdc99a409?mode=doc)
 
 Contributions and Feedback:
 
