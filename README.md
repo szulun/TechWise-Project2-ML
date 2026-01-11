@@ -23,6 +23,7 @@ Data Visualization: Visualizes the data to enhance understanding.
 This project has 2 Colab Notebooks.
 Student_Dropout_Prediction.ipynb : [contains the main machine learning code.](https://colab.research.google.com/drive/1HsBNv9swI59zRJcOo73tWnLyMn6rs9uZ#scrollTo=AP-uImpY-4O4&uniqifier=1)
 Student_Dropout_Prediction_ANN.ipynb : [contains the ANN model code.](https://colab.research.google.com/drive/10BMrvhJeIKsGMNOt9f32XINVOTOME64D#scrollTo=ccXUbKc6G8kH)
+Update version: https://colab.research.google.com/drive/1ANP0PmUszCjTbFLHRpd3RmVE2NrqC3s_?usp=sharing
 
 Key Features:
 
